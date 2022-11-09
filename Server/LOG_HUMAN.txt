@@ -1,0 +1,7 @@
+total run time:    60 seconds
+total requests:    17
+requests per second:    0.2833
+requests per second without the hard coded latency:    0.3414
+successfull accesses:    12
+successfull accesses per second:    0.2
+successfull accesses per second without the hard coded latency:    0.241
