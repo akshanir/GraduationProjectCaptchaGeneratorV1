@@ -1,0 +1,18 @@
+model id 1
+test done in 10/11/2022 15:27
+type digits only
+sample size 100
+accuracy 0.77
+--------------------
+model id 1
+test done in 10/11/2022 15:31
+type digits only
+sample size 100
+accuracy 0.86
+--------------------
+model id 1
+test done in 10/11/2022 15:36
+type digits only
+sample size 250
+accuracy 0.796
+--------------------
