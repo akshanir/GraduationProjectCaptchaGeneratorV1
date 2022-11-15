@@ -17,7 +17,6 @@ def handler(signum, frame):
   f = open('UNI_LOG.txt','w')
   f.write(f'total: {total_attempts}\nsuccessful accesses: {successful_accesses}\naccuracy:{round(successful_accesses/total_attempts,2) * 100}%\nrun time: {round(time.time() - run_time,2)} seconds')
   f.close()
-  browser.close()
   exit(1)
 
 
